@@ -1,0 +1,13 @@
+.day {
+	width: 2rem;
+	padding: .5rem;
+}
+
+.week {
+	display: flex;
+}
+
+.prevMonthDay,
+.nextMonthDay {
+	background-color: #DDD;
+}
